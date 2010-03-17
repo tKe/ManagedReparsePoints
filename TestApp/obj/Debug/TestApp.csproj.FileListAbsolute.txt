@@ -1,0 +1,30 @@
+C:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\bin\Debug\TestApp.exe
+C:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\bin\Debug\TestApp.pdb
+C:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\bin\Debug\ManagedReparsePoints.pdb
+C:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\obj\Debug\TestApp.exe
+C:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\obj\Debug\TestApp.pdb
+C:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\bin\Debug\ManagedReparsePoints.dll
+N:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\obj\Debug\ResolveAssemblyReference.cache
+N:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\bin\Debug\ManagedReparsePoints.dll
+N:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\bin\Debug\ManagedReparsePoints.pdb
+N:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\bin\Debug\FolderCombine.exe
+N:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\bin\Debug\FolderCombine.pdb
+N:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\obj\Debug\FolderCombine.exe
+N:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\obj\Debug\FolderCombine.pdb
+O:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\obj\Debug\FolderCombine.exe
+O:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\obj\Debug\FolderCombine.pdb
+O:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\obj\Debug\ResolveAssemblyReference.cache
+O:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\bin\Debug\FolderCombine.exe
+O:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\bin\Debug\FolderCombine.pdb
+O:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\bin\Debug\ManagedReparsePoints.dll
+O:\Documents and Settings\Karn\My Documents\Visual Studio 2008\Projects\ManagedReparsePoints\TestApp\bin\Debug\ManagedReparsePoints.pdb
+K:\ManagedReparsePoints\TestApp\bin\Debug\FolderCombine.exe
+K:\ManagedReparsePoints\TestApp\bin\Debug\FolderCombine.pdb
+K:\ManagedReparsePoints\TestApp\bin\Debug\ManagedReparsePoints.dll
+K:\ManagedReparsePoints\TestApp\bin\Debug\ManagedReparsePoints.pdb
+K:\ManagedReparsePoints\TestApp\obj\Debug\ResolveAssemblyReference.cache
+K:\ManagedReparsePoints\TestApp\obj\Debug\FolderCombine.exe
+K:\ManagedReparsePoints\TestApp\obj\Debug\FolderCombine.pdb
+N:\ManagedReparsePoints\TestApp\obj\Debug\FolderCombine.exe
+N:\ManagedReparsePoints\TestApp\obj\Debug\FolderCombine.pdb
